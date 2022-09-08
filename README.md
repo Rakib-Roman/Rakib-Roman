@@ -29,8 +29,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@Foysal_bhuiyan_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@Foysal_bhuiyan_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/md-rakibul-islam-b5a2a7239/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oli-ahamed-foysal-b-9830321ab/" height="30" width="40" /></a>
-<a href="https://fb.com/ruman.islam.184" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="foysal.bhuioyn" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/foysal_bhuiyan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="foysal_bhuiyan/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/md-rakibul-islam-b5a2a7239/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-rakibul-islam-b5a2a7239/" height="30" width="40" /></a>
+<a href="https://fb.com/ruman.islam.184" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ruman.islam.184" height="30" width="40" /></a>
 </p>
